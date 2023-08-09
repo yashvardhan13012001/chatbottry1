@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API Key"
 
 scraped_data = None  # Placeholder for scraped data
 conversation = []
